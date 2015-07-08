@@ -1,0 +1,140 @@
+		header{
+
+			height: 400px;
+			background-color: blue;
+			padding: 50px 515px 100px 515px;
+			background-image: url('heade.jpg');
+			font-size: 17px;
+			color: #F9690E;
+			width: 1336;
+		}
+
+
+		footer{
+			width: 400px;
+			height: 50px;
+			background-color: pink;
+		}
+		#li{
+			display: inline;
+			margin: 10px 30px 10px 30px;
+			padding: 
+		}
+		.div
+		{
+			margin-top: 10px;
+			width: 1336px;
+			height: 75px;
+			/*background-image: url('anu.jpg');*/
+			padding-top: 30px;
+		}
+		#ab{
+
+			/*background-image: url('acb.jpg');*/
+			margin-top: -10px;
+			width: 1336px;
+			height: 800px;
+			background-color: #5D8CAE;
+
+			/*padding: 10px 10px 10px 10px;*/
+
+		}
+
+
+		
+		#edu{
+			/*background-image: url('edu.jpg');*/
+			margin-top: -37px;
+			width: 1336px;
+			height: 800px;
+			font-size: 20px;
+			background-color: #8E44AD;
+		}
+		#tech{
+			/*background-image: url('tech.jpg');*/
+			margin-top: -37px;
+			width: 1336px;
+			height: 800px;
+			font-size: 20px;
+			 background-color: #E68364;
+		}
+
+		#pro{
+			/*background-image: url('pro.jpg');*/
+			margin-top: -37px;
+			width: 1336px;
+			height: 800px;
+			font-size: 20px;
+			background-color: #003171;
+		}
+
+
+
+		#sum{
+			/*background-image: url('sum.jpg');*/
+			margin-top: -37px;
+			width: 1336px;
+			height: 800px;
+			font-size: 20px;
+			background-color: #875F9A;
+		}
+
+
+
+
+
+		#achi{
+			/*background-image: url('achi.jpg');*/
+			margin-top: -37px;
+			width: 1336px;
+			height: 800px;
+			font-size: 20px;
+			background-color: #FFB3A7
+		}
+
+
+		#per{
+			/*background-image: url('per.jpg');*/
+			margin-top: -27px;
+			width: 1336px;
+			height: 800px;
+			font-size: 20px;
+			background-color: #C93756;
+			margin-bottom: 20px;
+		}
+
+		#abc{
+			color: #C3272B
+		}
+		
+		#td{
+			float: left;
+			padding: 50px;
+			background-color: red;
+			display: inline-block;
+		}
+		p{
+			display: inline-block;
+			margin-right: 35px;
+			margin-left: 35px;
+			font-size: 25px;
+		}
+		section{
+			float: left;
+		}
+
+
+/*PERSONAL INFORMATION*/
+
+.prsn_info{
+float: left;
+}
+
+.prsn_info1{
+	float: left;
+
+}
+
+ #xyz{
+	margin-left: 50px;
+}
