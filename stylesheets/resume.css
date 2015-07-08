@@ -1,0 +1,271 @@
+div,h1,h2,h3,header,footer,nav{
+	margin: 4;
+	padding: 0;
+}
+
+
+/*BODY SECTION */
+body
+{
+	width: 1330px;
+	/*margin:0 auto 0;*/
+	background-color: #f0f0f0;
+}
+
+
+/* // BANNER SECTION */
+.banner
+{
+	background-color: #5D3F6A;
+	color:#fff;
+	padding:10px 20px;
+	min-height: 580px;
+	text-align: center;
+	font-family: 'Philosopher', sans-serif;
+	font-size: 20px;
+
+}
+
+.banner_head{
+	-webkit-transform:translate(0px,160px);
+	-moz-transform:translate(0px,160px);
+	-ms-transform:translate(0px,160px);
+	-o-transform:translate(0px,160px);
+	transform:translate(0px,160px);
+}
+
+
+/* // NAVIGATION SECTION */
+nav
+{
+	background-color: black;
+	height: 60px;
+	margin-top: -17px;
+	color:#fff;
+	padding-top: 10px;	
+}
+nav ul li
+{
+	display:inline;
+	font-size:18px;
+	font-weight: bold;
+	margin: 20px;
+}
+nav ul li a{
+	color: red;
+	text-decoration: none;
+}
+nav ul li a:hover{
+	text-decoration: underline;
+}
+
+
+
+/* // CARRER OBJECTIVE SECTION */
+#career_section
+{
+	background-color:white;
+	color:black;
+	padding:10px 20px;
+	min-height: 750px;
+	text-align: center;
+	font-family: 'Philosopher', sans-serif;
+}
+.objective_box1
+{
+	font-size: 20px;
+	color:black;
+	margin:0px;
+}
+.objective_design
+{
+	color: #000;
+	-webkit-transform:translate(0px, 180px);
+	-moz-transform:translate(0px, 180px);
+	-ms-transform:translate(0px, 180px);
+	-o-transform:translate(0px, 180px);
+	transform:translate(130px, -350px);
+	
+}
+.objective_img1{
+	margin-left:-800px;
+	margin-top:100px; 
+	
+}
+
+
+
+
+/* // EDUCATION SECTION */
+#education_section
+{
+	background-color:#F2F1EF;
+	color:#757D75;
+	padding:10px 20px;
+	min-height: 450px;
+	text-align: center;
+	margin :0 auto 0;
+	font-family: 'Philosopher', sans-serif;
+}
+
+.education_box{
+	padding: 10;
+	background-color: #BE90D4;
+	width: 330px;
+	height: 200px;
+	border-radius: 20px;
+	border:1px solid #19B5FE;
+	margin:45px;
+	float: left;
+	color: #fff;
+	-webkit-transform:translate(0px, 60px);
+	-moz-transform:translate(0px, 60px);
+	-ms-transform:translate(0px, 60px);
+	-o-transform:translate(0px, 60px);
+	transform:translate(0px, 45px);
+}
+.education_det{
+	padding:0px;
+	color: black;
+	margin:5px;
+}
+
+
+/* // TECHNICAL SKILL SECTION */
+#technical_section
+{
+	background-color: white;
+	color:#757D75;
+	padding:10px 20px;
+	min-height: 450px;
+	text-align: center;
+	font-family: 'Philosopher', sans-serif;
+}
+
+.technical_box1
+{
+	padding: 10px;
+	background-color: #36D7B7;
+	width: 330px;
+	height: 250px;
+	margin:40px;
+	float: left;
+	color: #fff;
+	/* -webkit-transform:translate(0px, 60px);
+	-moz-transform:translate(0px, 60px);
+	-ms-transform:translate(0px, 60px);
+	-o-transform:translate(0px, 60px);
+	transform:translate(0px, 60px);
+	*/
+}
+.technical_img1
+{
+	-webkit-transform:translate(280px, -150px);
+	-moz-transform:translate(280px, -150px);
+	-ms-transform:translate(280px, -150px);
+	-o-transform:translate(280px, -150px);
+	transform:translate(0px, 0px);
+
+
+}
+
+
+
+/* // TRAINING SECTION */
+
+#training_section
+{
+	background-color: #F2F1EF;
+	color:#757D75;
+	min-height:250px;
+	text-align:center; 
+	font-family: 'Philosopher', sans-serif;
+}
+
+.training_box1{
+	height:100px;
+	width:300px;
+	float:left;
+	margin-left:0px;
+	margin-top: 0px;
+	font-size: 20px; 
+	margin-left:200px;
+	margin-right: 100px;
+	padding-top: 70px;
+	
+} 
+.training_img1{
+	margin-left:0px;
+
+}
+.training_img2{
+	margin-left:0px;
+
+}
+
+/* // ACHIEVEMENT SECTION */
+
+#achievement_section
+{
+	background-color: white;
+	color:black;
+	padding:10px 20px;
+	min-height: 500px;
+	text-align: center;
+	font-family: 'Philosopher', sans-serif;
+}
+.achievement_box
+{
+	width: 600px;
+	float: left;
+	text-align: center;
+	-webkit-transform:translate(0px, 250px);
+	-moz-transform:translate(0px, 250px);
+	-ms-transform:translate(0px, 250px);
+	-o-transform:translate(0px, 250px);
+	transform:translate(0px, 150px);
+}
+
+.achieve_img
+{
+	-webkit-transform:translate(280px, -150px);
+	-moz-transform:translate(280px, -150px);
+	-ms-transform:translate(280px, -150px);
+	-o-transform:translate(280px, -150px);
+	transform:translate(0px, -80px);
+}
+
+/* //  PERSONAL INFO SECTION */
+
+#personal_section
+{
+	background-color: #6C7A89;
+	color:#fff;
+	padding:10px 20px;
+	min-height: 500px;
+	text-align: center;
+	font-family: 'Philosopher', sans-serif;
+}
+
+.personal_info
+{
+	float: left;
+	text-align: left;
+	margin-top:0px;
+	margin-left:140px;
+	font-size: 1.2em;
+	padding: 20px;
+}
+
+.personal_info h2
+{
+	text-align: center;
+}
+.personal_icon
+{
+	-webkit-transform:translate(-66px,270px);
+	-moz-transform:translate(-66px,270px);
+	-ms-transform:translate(-66px,270px);
+	-o-transform:translate(-66px,270px);
+	transform:translate(-66px, 270px); 
+}
